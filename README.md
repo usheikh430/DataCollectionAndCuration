@@ -14,7 +14,7 @@ Links to any relevant API documentation:
 The license of  data and any source data:
 
 - MIT License
-- https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
+- https://www.kaggle.com/datasets/wittmannf/top-250-imdb-series-episode-ratings
 
 A data type and description for each attribute in the data:
 
